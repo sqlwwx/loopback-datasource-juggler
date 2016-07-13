@@ -18,4 +18,4 @@ Object.defineProperty(exports, 'test', {
   get: function() { return require(commonTest); },
 });
 
-exports.Transaction = require('loopback-connector').Transaction;
+exports.Transaction = require('loopback-connectornext').Transaction;

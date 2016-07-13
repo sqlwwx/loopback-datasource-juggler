@@ -1,6 +1,6 @@
 {
   "name": "loopback-datasource-jugglernext",
-  "version": "2.46.1",
+  "version": "2.46.2",
   "publishConfig": {
     "export-tests": true
   },
@@ -43,7 +43,7 @@
     "depd": "^1.1.0",
     "eslint": "^2.13.1",
     "inflection": "^1.10.0",
-    "loopback-connector": "^2.4.0",
+    "loopback-connectornext": "^2.4.0",
     "node-uuid": "^1.4.7",
     "qs": "^3.1.0",
     "traverse": "^0.6.6"
